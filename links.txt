@@ -1,0 +1,4 @@
+home=http://www.doc.gold.ac.uk/usr/232/
+home=http://www.doc.gold.ac.uk/usr/232/about
+home=http://www.doc.gold.ac.uk/usr/232/contact
+home=http://www.doc.gold.ac.uk/usr/232/date
